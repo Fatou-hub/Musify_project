@@ -10,3 +10,4 @@ The main features of this project includes :
  - worldwide top charts and much more
 
    
+To launch the app : npm run dev 
